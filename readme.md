@@ -484,6 +484,13 @@ list2 = [1, 2, 3]
 list3 = list1 + list2 # ['a', 'b', 'c', 1, 2, 3]
 ```
 
+Pop item 
+
+```python
+item = list1.pop() # pops out the last item
+item = list1.pop() # pops out element at index
+```
+
 ## Dict
 
 Hashtables are implemented with dictionaries
