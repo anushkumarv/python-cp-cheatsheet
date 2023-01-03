@@ -1118,6 +1118,12 @@ divmod(8, 3) # (2, 2)
 divmod(3, 8) #  (0, 3)
 ```
 
+Floor and Ceil
+```python
+math.floor(300.72)
+math.ceil(300.72)
+```
+
 ## eval
 
 Evaluates an expression
